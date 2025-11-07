@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Across the time-series the corridor remains dominantly agricultural. Small villages in the centre and several junctions grow outward slightly, new farmsteads appear, and a few fields replace forest patches, but no large urban cores form. Transport lines are marginally upgraded. Overall land use stays rural with sparse, scattered construction.",
+  "keywords": ["Sparse density", "Rural", "Farmland", "Deforestation", "Village"],
+  "notable_changes": [
+    "Incremental outward growth of the main central village and two smaller hamlets.",
+    "New or widened road segments cutting diagonally through the mid-section.",
+    "Forest blocks in the northern and southern ends cleared and converted to cropland.",
+    "Emergence of several light-colored farm buildings and storage yards within fields.",
+    "Slight increase in field regularity, indicating agricultural intensification."
+  ]
+}

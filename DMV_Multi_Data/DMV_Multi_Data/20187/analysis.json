@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Built-up surfaces grow steadily from scattered settlements to a modest town core with satellite housing, while most of the territory remains cropland and woodland. New industrial clusters appear beside the main highway and a bypass ring. Some marginal fields revert to forest, so impervious cover rises moderately but landscape still reads mainly rural.",
+  "keywords": ["Sparse density", "Rural", "Farmland", "Afforestation", "Highway"],
+  "notable_changes": [
+    "Town centre footprint expands and coalesces with nearby villages, roughly doubling residential area.",
+    "Industrial/warehouse complex emerges on eastern edge beside primary road after mid-series.",
+    "New bypass or ring-road constructed, increasing road density around central settlement.",
+    "Several former cropland patches in the south and west show progressive reforestation or pasture abandonment.",
+    "Small housing estates infill along the north-west corridor, converting field blocks into low-density suburbia."
+  ]
+}

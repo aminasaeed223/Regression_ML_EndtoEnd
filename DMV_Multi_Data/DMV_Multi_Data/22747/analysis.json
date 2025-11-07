@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Across the time-series the area remains largely rural. Small villages beside the main east-west road expand modestly, while scattered new houses and farm buildings dot surrounding fields. Forest cover oscillates—cleared for agriculture early on, then partly regenerating. Agricultural parcels grow and new minor roads appear, but no major urbanisation occurs.",
+  "keywords": ["Sparse density", "Rural", "Farmland", "Forestation", "Hamlets"],
+  "notable_changes": [
+    "Incremental enlargement of village clusters along the central arterial road.",
+    "Scattered new dwellings and farm outbuildings raise built-up footprint by roughly 10–15 %.",
+    "Forest clearing on western ridges between the first two images, followed by partial regrowth in mid-period frames.",
+    "Expansion and consolidation of agricultural fields, reducing small patch mosaics.",
+    "New minor roads and field tracks improve access across farmland."
+  ]
+}

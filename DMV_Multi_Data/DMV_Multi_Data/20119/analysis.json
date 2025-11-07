@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Across the image sequence the territory remains dominantly agricultural-rural. Built-up spots grow only marginally around scattered villages, while most change is in land cover: some fields consolidate, small forest blocks are cleared or re-planted, and a straighter road corridor appears. Overall settlement density stays sparse and no urban centres emerge.",
+  "keywords": ["Sparse density", "Rural", "Cropland", "Deforestation", "Roadway"],
+  "notable_changes": [
+    "Minor outward growth of several village clusters, mostly along existing roads.",
+    "Consolidation of irregular plots into larger rectangular cropland blocks.",
+    "Localised clearing of woodland in the southeast and centre, reducing forest cover.",
+    "Emergence or upgrade of a straighter north-south road corridor.",
+    "Small new water bodies or ponds visible near former forest patches."
+  ]
+}

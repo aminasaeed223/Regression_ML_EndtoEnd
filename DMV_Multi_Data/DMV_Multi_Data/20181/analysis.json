@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Across the sequence the territory remains predominantly agricultural with scattered villages. Built-up footprints enlarge slowly along main roads, but cropland still dominates. Some forest blocks shrink, replaced by fields, while minor new woodlots appear elsewhere. Road connectivity improves slightly; overall land use shifts are modest, keeping the landscape largely rural and low-density.",
+  "keywords": ["Sparse density", "Rural", "Cropland", "Woodlots", "Road network"],
+  "notable_changes": [
+    "Village edges expand incrementally, adding clusters of houses along primary roads.",
+    "Several forest patches in the centre-west are cleared and converted to cultivation.",
+    "A few new straight road links appear, tightening the transport grid.",
+    "Isolated reforestation or hedgerow growth noted in the north-east quadrant.",
+    "Seasonal imagery indicates increased field fallowing in the most recent scene."
+  ]
+}

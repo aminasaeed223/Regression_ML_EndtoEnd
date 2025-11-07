@@ -1,0 +1,11 @@
+{
+  "trend_summary": "Across the image sequence, forest remains dominant while fields expand and contract cyclically. The most visible shifts are agricultural: new clear-cut blocks appear centrally and southeast, some older fields revert to grass or young woodland, and crop mosaics rotate yearly. Built structures stay scattered and few, indicating stable, low-intensity rural land use.",
+  "keywords": ["Sparse density", "Rural", "Farmland", "Deforestation", "Reforestation"],
+  "notable_changes": [
+    "Central block of forest cleared, forming a new rectangular harvest site in later years.",
+    "South-eastern corner shows enlargement of light-colored cropland and pasture.",
+    "Several northern and western fields shrink or are abandoned, showing early-stage tree regrowth.",
+    "Field pattern in southwest alternates between dark crops and fallow, indicating crop rotation.",
+    "Built footprint (isolated farmsteads and access roads) remains virtually unchanged throughout."
+  ]
+}
